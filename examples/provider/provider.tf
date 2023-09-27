@@ -1,0 +1,2 @@
+provider "aws-event-pattern" {
+}
